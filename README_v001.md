@@ -1,7 +1,5 @@
 # Coding Interview University
 
-Bellow is the comment from the author of the original "Coding Interview University" John Washam. 
-
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
 > as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
@@ -41,8 +39,9 @@ Bellow is the comment from the author of the original "Coding Interview Universi
 
 ## What is it?
 
-This is my multi-month study plan to learn Machine Learning from an Hardware Embedded Engineer standpoint.
-The orignal plan developed by John Washam was to become a Software Engineer. During the transition to my study plan, the Software Engineering will have a stronger weight on this study guide.
+![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
+
+This is my multi-month study plan for becoming a software engineer for a large company.
 
 **Required:**
 * A little experience with coding (variables, loops, methods/functions, etc)
@@ -253,7 +252,7 @@ Create a new branch so you can check items like this, just put an x in the brack
 
 ## A Note About Video Resources
 
-Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs (Massive Open Online Courses).
+Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
 Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
 
 It would be great to replace the online course resources with free and always-available public sources,
@@ -329,16 +328,6 @@ Just choose one, in a language that you will be comfortable with. You'll be doin
 - [Algorithms in C, Parts 1-5 (Bundle), 3rd Edition](https://www.amazon.com/Algorithms-Parts-1-5-Bundle-Fundamentals/dp/0201756080)
     - Fundamentals, Data Structures, Sorting, Searching, and Graph Algorithms
 
-### C++
-
-Your choice:
-
-- Goodrich, Tamassia, and Mount
-    - [Data Structures and Algorithms in C++, 2nd Edition](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/0470383275)
-- Sedgewick and Wayne
-    - [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
-    - [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
-
 ### Python
 
 - [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
@@ -358,6 +347,16 @@ Your choice:
     - Free Coursera course that covers the book (taught by the authors!):
         - [Algorithms I](https://www.coursera.org/learn/algorithms-part1)
         - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
+
+### C++
+
+Your choice:
+
+- Goodrich, Tamassia, and Mount
+    - [Data Structures and Algorithms in C++, 2nd Edition](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/0470383275)
+- Sedgewick and Wayne
+    - [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
+    - [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
 
 **[⬆ back to top](#table-of-contents)**
 
